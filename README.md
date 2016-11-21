@@ -11,5 +11,5 @@ On first load a list with first 10 users is shown, on scroll a redux-thunk loadN
 as a result also isNextPageLoading field is updated (checking prevents additional triggering of loadNextPage).
 
 10:00 - start of work
-10:19 - pause
+10:19 - pause (need to start my normal full-time work)
 
