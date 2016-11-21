@@ -1,5 +1,5 @@
-## Infinite GitHub users in React + Redux
-# Job test application
+# Infinite GitHub users in React + Redux
+### Job test application
 
 Used:
 - React (react-create-app generator)
